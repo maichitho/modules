@@ -1,4 +1,10 @@
 {
+	"repositories": [
+       {
+            "type": "vcs",
+            "url": "https://github.com/maichitho/generators.git"
+        }
+    ],
   "name": "pingpong/modules",
   "description": "Laravel Modules",
   "keywords": [
@@ -18,7 +24,7 @@
   "require": {
     "php": ">=5.4.0",
     "laravel/framework": "5.1.*",
-    "pingpong/generators": "2.1.*",
+    "pingpong/generators": "dev-astec",
     "pingpong/support": "2.1.*",
     "laravelcollective/html": "~5.0"
   },
