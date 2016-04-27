@@ -36,6 +36,5 @@
     "psr-4": {
       "Pingpong\\Modules\\": ""
     }
-  },
-  "minimum-stability": "stable"
+  }
 }
